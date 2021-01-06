@@ -1,4 +1,4 @@
-# Jobs Scrapper
+# StackOverFlow Jobs Scrapper
 
 Using  
 -Python  
