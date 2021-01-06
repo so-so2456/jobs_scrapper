@@ -1,4 +1,4 @@
-# jobs_scrapper
+# Jobs Scrapper
 
 Using  
 -Python  
